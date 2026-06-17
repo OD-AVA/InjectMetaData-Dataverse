@@ -1,0 +1,243 @@
+[
+  {
+    "table": "account",
+    "schema_name": "accountnumber",
+    "label": "Numéro compte",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "account",
+    "schema_name": "name",
+    "label": "Nom du compte",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "subject",
+    "label": "Sujet",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "lastname",
+    "label": "Nom",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "firstname",
+    "label": "Prénom",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "jobtitle",
+    "label": "Fonction",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "telephone1",
+    "label": "Téléphone professionnel",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "mobilephone",
+    "label": "Téléphone mobile",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "emailaddress1",
+    "label": "Email",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "lead",
+    "schema_name": "companyname",
+    "label": "Société",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "createdon",
+    "label": "Créé le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "modifiedon",
+    "label": "Modifié le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "createdon",
+    "label": "Créé le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "modifiedon",
+    "label": "Modifié le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "createdon",
+    "label": "Créé le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "modifiedon",
+    "label": "Modifié le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "opportunity",
+    "schema_name": "name",
+    "label": "Rubrique",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "opportunity",
+    "schema_name": "budgetamount",
+    "label": "Potentiel estimé de l'opportunité",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "name",
+    "label": "Désignation",
+    "normalized_type": "string",
+    "values": [
+      "Laboratoire",
+      "Catalogue alcyon.com"
+    ]
+  },
+  {
+    "table": "product",
+    "schema_name": "productnumber",
+    "label": "ID produit",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "quantitydecimal",
+    "label": "Nombre de décimales prises en charge",
+    "normalized_type": "integer",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "subjectid",
+    "label": "Objet",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "description",
+    "label": "Description",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "createdon",
+    "label": "Créé le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "product",
+    "schema_name": "modifiedon",
+    "label": "Modifié le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "from",
+    "label": "De",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "to",
+    "label": "À",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "cc",
+    "label": "Cc",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "bcc",
+    "label": "Cci",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "subject",
+    "label": "Sujet",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "description",
+    "label": "Description",
+    "normalized_type": "string",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "scheduledend",
+    "label": "Échéance",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "createdon",
+    "label": "Créé le",
+    "normalized_type": "datetime",
+    "values": []
+  },
+  {
+    "table": "email",
+    "schema_name": "modifiedon",
+    "label": "Modifié le",
+    "normalized_type": "datetime",
+    "values": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "RUN AI PROMPT",
+      "type": "shell",
+      "command": "python ai_app.py",
+      "problemMatcher": []
+    }
+  ]
+}

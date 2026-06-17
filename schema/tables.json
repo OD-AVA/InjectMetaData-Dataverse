@@ -1,0 +1,23 @@
+[
+  {
+    "table_schema": "msp_ava_cible",
+    "display": "Ava Cible",
+    "plural": "Ava Cibles",
+    "primary_attr": "msp_ava_cible_name",
+    "primary_display": "Nom"
+  },
+  {
+    "table_schema": "msp_ava_contract",
+    "display": "Ava Contract",
+    "plural": "Ava Contracts",
+    "primary_attr": "msp_ava_contract_name",
+    "primary_display": "Nom"
+  },
+  {
+    "table_schema": "msp_ava_segment",
+    "display": "Ava Segment",
+    "plural": "Ava Segments",
+    "primary_attr": "msp_ava_segment_name",
+    "primary_display": "Nom"
+  }
+]

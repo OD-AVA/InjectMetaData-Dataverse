@@ -1,0 +1,6 @@
+azure-identity
+python-dotenv
+requests
+pandas
+openpyxl
+msal

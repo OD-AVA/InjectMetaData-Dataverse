@@ -1,0 +1,190 @@
+[
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "createdby",
+    "label": "Créé par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "modifiedby",
+    "label": "Modifié par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "owner",
+    "label": "Propiétaire",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "createdby",
+    "label": "Créé par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "modifiedby",
+    "label": "Modifié par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "owner",
+    "label": "Propiétaire",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "createdby",
+    "label": "Créé par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "modifiedby",
+    "label": "Modifié par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "owner",
+    "label": "Propriétaire",
+    "normalized_type": "lookup",
+    "values": [
+      "spm"
+    ],
+    "target_table": null
+  },
+  {
+    "table": "opportunity",
+    "schema_name": "accountid",
+    "label": "Compte",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "opportunity",
+    "schema_name": "contactid",
+    "label": "Contact",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "opportunity",
+    "schema_name": "transactioncurrencyid",
+    "label": "Devise",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "parentproductid",
+    "label": "Produit chapeau",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "defaultuomscheduleid",
+    "label": "Groupe d'unités",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "defaultuomid",
+    "label": "Unité par défaut",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "pricelevelid",
+    "label": "Tarifs par défaut",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "createdby",
+    "label": "Créé par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "modifiedby",
+    "label": "Modifié par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "product",
+    "schema_name": "owner",
+    "label": "Propriétaire",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "email",
+    "schema_name": "regardingobjectid",
+    "label": "Concernant",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "email",
+    "schema_name": "createdby",
+    "label": "Créé par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "email",
+    "schema_name": "modifiedby",
+    "label": "Modifié par",
+    "normalized_type": "lookup",
+    "values": [],
+    "target_table": null
+  },
+  {
+    "table": "email",
+    "schema_name": "ownerid",
+    "label": "Propriétaire",
+    "normalized_type": "lookup",
+    "values": [
+      "Pièces jointes"
+    ],
+    "target_table": null
+  }
+]

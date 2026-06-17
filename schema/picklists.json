@@ -1,0 +1,65 @@
+[
+  {
+    "table": "lead",
+    "schema_name": "msp_sourcelead",
+    "label": "Source",
+    "normalized_type": "picklist",
+    "values": [
+      "Evènement / Salon\nRecommandation / Partenaire \nProspection\nEnvoi formulaire\nCampagne publicitaire\nSite web"
+    ]
+  },
+  {
+    "table": "msp_ava_cible",
+    "schema_name": "statecode",
+    "label": "Statut",
+    "normalized_type": "picklist",
+    "values": [
+      "Actif\nInactif"
+    ]
+  },
+  {
+    "table": "msp_ava_contract",
+    "schema_name": "statecode",
+    "label": "Statut",
+    "normalized_type": "picklist",
+    "values": [
+      "Actif\nInactif"
+    ]
+  },
+  {
+    "table": "msp_ava_segment",
+    "schema_name": "statecode",
+    "label": "Statut",
+    "normalized_type": "picklist",
+    "values": [
+      "Actif\nInactif"
+    ]
+  },
+  {
+    "table": "product",
+    "schema_name": "statecode",
+    "label": "Statut",
+    "normalized_type": "picklist",
+    "values": [
+      "Actif\nMis hors service\nBrouillon\nEn cours de révision"
+    ]
+  },
+  {
+    "table": "email",
+    "schema_name": "prioritycode",
+    "label": "Priorité",
+    "normalized_type": "picklist",
+    "values": [
+      "Haute\nNormale\nFaible"
+    ]
+  },
+  {
+    "table": "email",
+    "schema_name": "statecode",
+    "label": "Statut",
+    "normalized_type": "picklist",
+    "values": [
+      "Ouvert\nTerminé\nAnnulé"
+    ]
+  }
+]
